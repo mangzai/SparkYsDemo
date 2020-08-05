@@ -1,0 +1,7 @@
+(www.suning.com,ListBuffer((西藏,502), (天津,506), (辽宁,507)))
+(www.jd.com,ListBuffer((北京,500), (香港,509), (上海,513)))
+(www.dangdang.com,ListBuffer((江西,486), (广西,500), (湖南,509)))
+(www.taobao.com,ListBuffer((黑龙江,504), (海南,505), (江西,515)))
+(www.mi.com,ListBuffer((云南,492), (重庆,507), (江西,516)))
+(www.baidu.com,ListBuffer((甘肃,495), (江西,500), (海南,500)))
+(www.gome.com,ListBuffer((辽宁,491), (重庆,503), (黑龙江,503)))
